@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppWeb</string>
+    <string name="txt1">Go</string>
+    <string name="txt2">URL을 입력해주세요!</string>
+    <string name="txt3">뒤로</string>
+    <string name="txt4">새로고침</string>
+    <string name="txt5">앞으로</string>
+</resources>
